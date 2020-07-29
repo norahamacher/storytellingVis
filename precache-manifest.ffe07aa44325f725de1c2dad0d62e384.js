@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68c5eb1aae678e19e589e3bb2c1c683b",
+    "revision": "40a4ce0a80461c7ec15c3cfb69c21dc8",
     "url": "/storytellingVis/index.html"
   },
   {
-    "revision": "ec12a39e2e1aa0a937f2",
+    "revision": "c127324a3f34d92e3e80",
     "url": "/storytellingVis/static/css/main.cee5ef24.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/storytellingVis/static/js/2.23519cf5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ec12a39e2e1aa0a937f2",
-    "url": "/storytellingVis/static/js/main.e5aa1eef.chunk.js"
+    "revision": "c127324a3f34d92e3e80",
+    "url": "/storytellingVis/static/js/main.304886b2.chunk.js"
   },
   {
     "revision": "f7c34f11988f23f0e2f2",
