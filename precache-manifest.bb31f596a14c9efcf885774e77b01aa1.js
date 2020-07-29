@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77343ee09db55c3df5ac04a2396af1ac",
+    "revision": "6f8ffb9098b41103f69812d723ec77bf",
     "url": "/storytellingVis/index.html"
   },
   {
-    "revision": "60f5f49c49c4d9c04f81",
-    "url": "/storytellingVis/static/css/main.1dab9a30.chunk.css"
+    "revision": "551eab6bcd4ef26b0ba5",
+    "url": "/storytellingVis/static/css/main.cee5ef24.chunk.css"
   },
   {
-    "revision": "f8752e23d7edc2c09b50",
-    "url": "/storytellingVis/static/js/2.03ff4bb5.chunk.js"
+    "revision": "0e231010afecf7ea2fc4",
+    "url": "/storytellingVis/static/js/2.23519cf5.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/storytellingVis/static/js/2.03ff4bb5.chunk.js.LICENSE.txt"
+    "url": "/storytellingVis/static/js/2.23519cf5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60f5f49c49c4d9c04f81",
-    "url": "/storytellingVis/static/js/main.c43cffd5.chunk.js"
+    "revision": "551eab6bcd4ef26b0ba5",
+    "url": "/storytellingVis/static/js/main.b8756b8a.chunk.js"
   },
   {
     "revision": "f7c34f11988f23f0e2f2",
