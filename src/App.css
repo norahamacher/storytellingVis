@@ -1,11 +1,7 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -28,11 +24,98 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.description {
+  max-width:80%
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+iframe {
+  min-width: 850pt;
+  width:100%;
+  min-height:1000px;
+}
+
+.tutorialSection {
+  width:90%;
+  display:block;
+  margin-left:5%;
+  margin-bottom:25px;
+}
+.arrow {
+  display: inline-block;
+  line-height: 2.5em;
+  text-align: center;
+  background: #333;
+  color: white;
+  font-size: 1em;
+  width: 2.5em;
+  transition: margin 200ms;
+  margin-left: .75em;
+}
+.btn {
+  display: inline-block;
+  background: #e2e2e2;
+  border: 0;
+  line-height: 2.5em;
+  padding: 0 0 0 1em;
+  margin-bottom: 1em;
+  outline: none;
+  text-decoration: none;
+  color: #666;
+  
+} 
+.liContent{
+  display:flex;
+  justify-content: left;
+  position: relative;
+}
+    
+.liInputParent{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-right:10px;
+  margin-right:10px;
+  border-right: 1px dashed grey;
+}
+ .todo {
+  border: 1px dashed grey;
+ }
+
+ .liInput{
+  border: 1px solid #808080;
+  content: "";
+  background: #FFF;
+
+  width: 15px;
+  height: 15px;
+  border-radius: 2px;
+  margin-left:10px;
+ }
+
+ .liInput:checked:after{
+   background-color:#b2d4bb
+ }
+
+ .done {
+   background-color: #b2d4bb;
+   color: grey;
+   -webkit-text-decoration-line: line-through;
+   text-decoration-line: line-through;
+   border: 1px solid black
+
+ }
+.checkboxes {
+
+  list-style: none;
+ 
+}
+.checkboxes li{
+  margin-bottom: 10px;
+  border-radius:5px;
+
 }
